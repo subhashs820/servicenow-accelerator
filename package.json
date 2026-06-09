@@ -1,0 +1,23 @@
+{
+  "name": "servicenow-accelerator",
+  "version": "1.0.0",
+  "description": "Accelerator for ServiceNow repeated work - documentation, architecture, workshop, design, and flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo Building accelerator templates..."
+  },
+  "keywords": [
+    "servicenow",
+    "accelerator",
+    "templates",
+    "automation",
+    "documentation",
+    "architecture",
+    "workflow"
+  ],
+  "author": "ServiceNow Developer",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
